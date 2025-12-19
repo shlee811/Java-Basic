@@ -1,6 +1,4 @@
-package class1.ex1;
-
-import java.sql.SQLOutput;
+package Class1.ex1;
 
 public class MovieReviewMain2 {
 

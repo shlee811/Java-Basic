@@ -1,9 +1,10 @@
-package class1;
+package ref;
 
 public class Student {
+
     String name;
     int age;
     int grade;
+
+
 }
-
-
